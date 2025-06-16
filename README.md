@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=89CFF0&height=300&section=header&text=Work%in%Progress&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=89CFF0&height=300&section=header&text=Work%20in%20Progress&fontSize=50&stroke=89CFF0)
 
 <!--
 **b0biii/b0biii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
